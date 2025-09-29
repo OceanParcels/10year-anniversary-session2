@@ -5,3 +5,4 @@ dependencies:
   - parcels
   - pooch
   - trajan
+  - plotly
